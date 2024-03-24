@@ -1,6 +1,6 @@
 # TooManyFields
 
-Data editing, simplified.
+Data editing, simplified. Read the [Manifesto](/manifesto.md).
 
 ## Requirements
 
@@ -31,3 +31,5 @@ Data editing, simplified.
 - [ ] JSON
 
 ## Create your own
+
+Extrapolate with your own ideas.
