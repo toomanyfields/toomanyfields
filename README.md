@@ -4,7 +4,7 @@ A standalone version of [Advanced Custom Fields (ACF)](https://www.advancedcusto
 
 Seamlessly integrate ACF-like capabilities into any React-based application without relying on WordPress.
 
-## Included
+## Core Features
 
 - [ ] Post Types
 - [ ] Taxonomies
