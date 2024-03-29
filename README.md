@@ -49,3 +49,14 @@ Seamlessly integrate ACF-like capabilities into any React-based application with
 - [ ] URL
 - [ ] User
 - [ ] WYSIWYG
+
+## Pro version
+
+Unlock additional features with the Pro version:
+
+- [ ] Clone (PRO)
+- [ ] Flexible Content (PRO)
+- [ ] Gallery (PRO)
+- [ ] Repeater (PRO)
+
+Upgrade to the Pro version to leverage these advanced functionalities and streamline your development workflow.
