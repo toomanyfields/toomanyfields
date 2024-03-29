@@ -6,6 +6,7 @@ Seamlessly integrate ACF-like capabilities into any React-based application with
 
 ## Core Features
 
+- [ ] Users
 - [ ] Post Types
 - [ ] Taxonomies
 - [ ] Field Groups
