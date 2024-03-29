@@ -1,35 +1,51 @@
-# TooManyFields
+# TooManyFields Indev 0.1
 
-Data editing, simplified. Read the [Manifesto](/manifesto.md).
+A standalone version of [Advanced Custom Fields (ACF)](https://www.advancedcustomfields.com/) in [React](https://react.dev/), including ACF's core features and native [WordPress](https://wordpress.com/) functionalities like option pages, custom post types, and taxonomies. 
 
-## Requirements
+Seamlessly integrate ACF-like capabilities into any React-based application without relying on WordPress.
 
-- React
-- TailwindCSS
+## Included
+
+- [ ] Post Types
+- [ ] Taxonomies
+- [ ] Field Groups
+- [ ] Field Types
+- [ ] Option Pages
 
 ## Field Types
 
-- [ ] Attachment
-- [ ] Gallery
-- [ ] Radio Button
-- [ ] Text
-- [ ] Number
-- [ ] Currency
-- [ ] Percentage
-- [ ] Long Text
+- [ ] Accordion
+- [ ] Button Group
 - [ ] Checkbox
-- [ ] Toggle
-- [ ] Date
-- [ ] DateTime
-- [ ] Time
-- [ ] Duration
-- [ ] Single Select
-- [ ] Repeater
+- [ ] Clone
+- [ ] Color Picker
+- [ ] Date Picker
+- [ ] Date Time Picker
+- [ ] Email
+- [ ] File
+- [ ] Flexible Content
+- [ ] Gallery
+- [ ] Google Map
+- [ ] Group
+- [ ] Image
+- [ ] Link
+- [ ] Message
+- [ ] Number
+- [ ] oEmbed
+- [ ] Page Link
+- [ ] Password
+- [ ] Post Object
+- [ ] Radio Button
+- [ ] Range
 - [ ] Relationship
-- [ ] Object
-- [ ] Toggle
-- [ ] JSON
-
-## Create your own
-
-Extrapolate with your own ideas.
+- [ ] Repeater
+- [ ] Select
+- [ ] Tabs
+- [ ] Taxonomy
+- [ ] Text
+- [ ] Text Area
+- [ ] Time Picker
+- [ ] True / False
+- [ ] URL
+- [ ] User
+- [ ] WYSIWYG
