@@ -12,6 +12,10 @@ Seamlessly integrate ACF-like capabilities into any React-based application with
 - [ ] Field Types
 - [ ] Option Pages
 
+## Usage
+
+During the initial development phase (Indev), you are welcome to utilize the project in its current state. Feel free to incorporate components into your own project. The goal is to reach a point where every component is in a minimally usable state, from which we will then progressively enhance and expand upon. But beware; _Expect breaking changes in these initial versions_.
+
 ## Field Types
 
 - [ ] Accordion
