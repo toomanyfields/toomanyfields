@@ -17,14 +17,14 @@ Seamlessly integrate ACF-like capabilities into any React-based application with
 - [ ] Accordion
 - [ ] Button Group
 - [ ] Checkbox
-- [ ] Clone
+- [ ] Clone (PRO)
 - [ ] Color Picker
 - [ ] Date Picker
 - [ ] Date Time Picker
 - [ ] Email
 - [ ] File
-- [ ] Flexible Content
-- [ ] Gallery
+- [ ] Flexible Content (PRO)
+- [ ] Gallery (PRO)
 - [ ] Google Map
 - [ ] Group
 - [ ] Image
@@ -38,7 +38,7 @@ Seamlessly integrate ACF-like capabilities into any React-based application with
 - [ ] Radio Button
 - [ ] Range
 - [ ] Relationship
-- [ ] Repeater
+- [ ] Repeater (PRO)
 - [ ] Select
 - [ ] Tabs
 - [ ] Taxonomy
