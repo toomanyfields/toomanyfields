@@ -1,67 +1,56 @@
 # TooManyFields Indev 0.1
 
-A standalone version of [Advanced Custom Fields (ACF)](https://www.advancedcustomfields.com/) in [React](https://react.dev/), including ACF's core features and native [WordPress](https://wordpress.com/) functionalities like option pages, custom post types, and taxonomies. 
+A modern [React](https://react.dev/) component library for content-driven applications inspired by [WordPress](https://wordpress.com/) and [Advanced Custom Fields (ACF)](https://www.advancedcustomfields.com/) with out-of-the-box bindings for [Next.js](https://nextjs.org/).
 
-Seamlessly integrate ACF-like capabilities into any React-based application without relying on WordPress.
+## Features
 
-## Core Features
+- Users & Roles
+- Pages
+- Post Types
+- Taxonomies
+- Menus
+- Options Pages
+- Field Groups
+- Field Types
 
-- [ ] Users
-- [ ] Post Types
-- [ ] Taxonomies
-- [ ] Field Groups
-- [ ] Field Types
-- [ ] Option Pages
+## Getting started
 
-## Usage
+Start the boilerplate (Next.js + TooManyFields) by cloning the repo, then running it:
+
+```sh
+git clone https://github.com/toomanyfields/toomanyfields.git
+
+npm run dev
+```
+
+Or add it manually to your existing Next.js application:
+
+```sh
+git clone https://github.com/toomanyfields/toomanyfields.git
+
+cp -R toomanyfields/src/tmf your-app/src 
+
+# ensure that your package.json and tailwind.config.ts files
+# are set up in accordance with the corresponding files found in toomanyfields.
+```
+
+Or cherry-pick the components you need from the repository. The aim is to provide components that you can copy and paste into your apps instead of having to install a closed source library that stiffles your development process.
+
+## Documentation
+
+Visit https://toomanyfields.com to view the full documentation.
+
+## Support
 
 During the initial development phase (Indev), you are welcome to utilize the project in its current state. Feel free to incorporate components into your own project. The goal is to reach a point where every component is in a minimally usable state, from which we will then progressively enhance and expand upon. But beware; _Expect breaking changes in these initial versions_.
-
-## Field Types
-
-- [ ] Accordion
-- [ ] Button Group
-- [ ] Checkbox
-- [ ] Clone (PRO)
-- [ ] Color Picker
-- [ ] Date Picker
-- [ ] Date Time Picker
-- [ ] Email
-- [ ] File
-- [ ] Flexible Content (PRO)
-- [ ] Gallery (PRO)
-- [ ] Google Map
-- [ ] Group
-- [ ] Image
-- [ ] Link
-- [ ] Message
-- [ ] Number
-- [ ] oEmbed
-- [ ] Page Link
-- [ ] Password
-- [ ] Post Object
-- [ ] Radio Button
-- [ ] Range
-- [ ] Relationship
-- [ ] Repeater (PRO)
-- [ ] Select
-- [ ] Tabs
-- [ ] Taxonomy
-- [ ] Text
-- [ ] Text Area
-- [ ] Time Picker
-- [ ] True / False
-- [ ] URL
-- [ ] User
-- [ ] WYSIWYG
 
 ## Pro version
 
 Unlock additional features with the Pro version:
 
-- [ ] Clone (PRO)
-- [ ] Flexible Content (PRO)
-- [ ] Gallery (PRO)
-- [ ] Repeater (PRO)
+- Clone (PRO)
+- Flexible Content (PRO)
+- Gallery (PRO)
+- Repeater (PRO)
 
 Upgrade to the Pro version to leverage these advanced functionalities and streamline your development workflow.
